@@ -1,3 +1,1 @@
-Hola, este fichero tiene la versión 2 :D
-
-Esta versión falla :(
+Hola, este fichero tiene la versión 1 :D
